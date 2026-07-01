@@ -7,7 +7,7 @@ pymongo[srv]==3.12
 scikit-learn
 joblib
 dill
-mlflow
+mlflow==2.17.2
 pyaml
 
 ##-e .
